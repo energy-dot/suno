@@ -1,0 +1,6 @@
+{
+  "name": "Suno AI Prompt Studio v5 + Lyrics Studio　v0.2",
+  "description": "Suno v5の高度な機能を最大限に引き出す、次世代プロンプトエンジニアリングツール。StyleボックスとLyricsボックスに最適化されたデュアルプロンプトを生成する「個別設定モード」や、高再現性プロンプトを組み立てる「歌詞プロンプト・スタジオ」などを搭載しています。",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
